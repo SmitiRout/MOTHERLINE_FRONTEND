@@ -1,0 +1,3 @@
+<button className="btn btn-secondary" onClick={toggleDarkMode}>
+  🌓 Toggle Dark Mode
+</button>
