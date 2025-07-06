@@ -1,0 +1,13 @@
+jsx
+CopyEdit
+<div className="card">
+  <div className="card-body">
+    <h5 className="card-title">👤 Name: John Doe</h5>
+    <p className="card-text">Uploaded Files:</p>
+    <ul>
+      {fileList.map(file => (
+        <li key={file.name}>📄 {file.name}</li>
+      ))}
+    </ul>
+  </div>
+</div>
