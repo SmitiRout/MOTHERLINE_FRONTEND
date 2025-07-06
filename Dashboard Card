@@ -1,5 +1,4 @@
-jsx
-CopyEdit
+
 <div className="card">
   <div className="card-body">
     <h5 className="card-title">👤 Name: John Doe</h5>
