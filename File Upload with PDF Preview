@@ -1,5 +1,4 @@
-jsx
-CopyEdit
+
 <input type="file" accept="application/pdf" onChange={handleFileChange} />
 {selectedFile && (
   <iframe
